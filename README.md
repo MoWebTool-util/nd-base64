@@ -1,12 +1,8 @@
 # nd-base64
 
-[![spm version](http://spmjs.io/badge/nd-base64)](http://spmjs.io/package/nd-base64)
+[![spm version](http://spm.crossjs.com/badge/nd-base64)](http://spm.crossjs.com/package/nd-base64)
 
->base64编码解码,fork from (https://github.com/dankogai/js-base64)
-
-##base64.js
-
-Yet another Base64 transcoder in pure-JS
+> Base64 编码解码，fork from [Yet another Base64 transcoder in pure-JS](https://github.com/dankogai/js-base64)
 
 ## 安装
 
